@@ -1,5 +1,7 @@
 #include<bits/stdc++.h>
 int main(){
+int x;
+cin>>x;
 printf("hello");
 return 0;
 }
